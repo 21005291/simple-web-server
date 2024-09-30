@@ -24,7 +24,7 @@ Testing the webserver.
 """
 from http.server import HTTPServer,BaseHTTPRequestHandler
 
-content='''
+content=
 <!DOCTYPE html>
 <html lang="en">
 <head>
